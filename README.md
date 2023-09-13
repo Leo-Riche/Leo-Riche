@@ -39,3 +39,9 @@
     <img alt="premierepro" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg'>
     <img alt="blender" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg'>
 </p>
+
+### Mon LinkedIn :  
+<p>
+    <a href="https://www.linkedin.com/in/léo-riché-83858324b/">
+    <img alt="linkedin" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'></a>
+</p>
