@@ -12,7 +12,7 @@
 
 - :books: En apprentissage d'**UX/UI Design**, **Front-end** et **Back-end**
 
-- :glowing_star: Mon **projet favori** : [One Piece Memory](https://leo-riche.github.io/OnePieceMemory/)
+- :star: Mon **projet favori** : [One Piece Memory](https://leo-riche.github.io/OnePieceMemory/)
 
 - :dart: Mon objectif : devenir **UX/UI Designer**
 
