@@ -1,6 +1,6 @@
 <h1 align="center"> 👋Salut je suis Léo Riché </h1>
 
-### Je suis étudiant en 2ème année de Coding Digital Innovation à l'IIM Digital School et actuellement à la rechercher d'un stage d'une durée de 3 mois.
+### Je suis étudiant en 2ème année de Coding Digital Innovation à l'IIM Digital School et actuellement à la recherche d'un stage d'une durée de 3 mois.
 
 <hr>
 
