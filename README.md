@@ -1,6 +1,6 @@
 <h1 align="center"> 👋Salut je suis Léo Riché </h1>
 
-### Je suis étudiant en 2ème année de Coding Digital Innovation à l'IIM Digital School et actuellement à la recherche d'un stage d'une durée de 3 mois.
+### Je suis étudiant en 2ème année de Coding Digital Innovation à l'IIM Digital School et actuellement à la recherche d'un stage d'une durée de 3 mois à partir d'avril 2024.
 
 <hr>
 
@@ -10,11 +10,11 @@
 
 ## Mes infos :
 
-- :books: En apprentissage d'**UX/UI Design**, **Front-end** et **Back-end**
+- :books: En apprentissage de **Front-end** et **Back-end**
 
 - :star: Mon **projet favori** : [One Piece Memory](https://leo-riche.github.io/OnePieceMemory/)
 
-- :dart: Mon objectif : devenir **UX/UI Designer**
+- :dart: Mon objectif : devenir **Développeur Web Fullstack**
 
 
 <br>
