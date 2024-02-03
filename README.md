@@ -31,10 +31,8 @@
     <img alt="git" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
     <img alt="bootstrap" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
     <img alt="python" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
-    <img alt="csharp" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
     <img alt="figma" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
     <img alt="photoshop" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg'>
-    <img alt="illustrator" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg'>
     <img alt="aftereffects" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg'>
     <img alt="premierepro" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg'>
     <img alt="blender" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg'>
