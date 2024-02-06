@@ -12,7 +12,7 @@
 
 - :books: En apprentissage de **Front-end** et **Back-end**
 
-- :star: Mon **projet favori** : [One Piece Memory](https://leo-riche.github.io/OnePieceMemory/)
+- :star: Mon **projet favori** : [Pokedex](https://leo-riche.github.io/Pokedex/)
 
 - :dart: Mon objectif : devenir **Développeur Web Fullstack**
 
