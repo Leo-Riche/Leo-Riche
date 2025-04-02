@@ -1,6 +1,6 @@
 <h1 align="center"> 👋Salut je suis Léo Riché </h1>
 
-### Je suis étudiant en 3ème année de Coding Digital Innovation à l'IIM Digital School.
+### Je suis étudiant en 3ème année de Coding Digital Innovation à l'IIM Digital School en Mastère Lead Fullstack à partir de septembre 2025. Actuellement en recherche d'une alternance de 2 ans au rythme de 3 semaines d'entreprise et 1 semaine d'école.
 
 <hr>
 
